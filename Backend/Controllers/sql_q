@@ -1,0 +1,13 @@
+INSERT INTO testtable(gender, married, dependents, education, self_employed, applicant_income, coapplicant_income, loan_amount, loan_amount_term, property_area, name, score)
+values ('male',
+'yes',
+1,
+'graduate',
+'no',
+4583,
+1508,
+128,
+360,
+'Rural',
+'Alextest',
+100.0);

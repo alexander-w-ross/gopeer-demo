@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "married": "yes",
+        "dependents": "1",
+        "education": "graduate",
+        "self_employed": "no",
+        "applicant_income": 4583,
+        "coapplicant_income": 1508,
+        "loan_amount": 128,
+        "loan_amount_term": 360,
+        "property_area": "Rural",
+        "name": "Alextest",
+        "score": 100
+    }
+]
